@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src="https://github.com/matheusfbonfim/ES6-Rocketseat/blob/master/.github/logo_SVG.svg" width="200px" />
+    <img alt="Starter" title="Javascript Starter"src="https://github.com/matheusfbonfim/ES6-Rocketseat/blob/master/.github/logo_SVG.svg" width="170px" />
 </h1>
 
 <h2 align="center">
@@ -100,44 +100,110 @@ const promise = function() {
 
 ### 04 Exercício :pencil:
 
-Escreva uma função que dado um total de anos de estudo retorna o quão experiente o usuário é:
+#### 04.1 Desestruturação simples
+
+A partir do seguinte objeto:
 
 ```
-function experiencia(anos) {
-// código aqui
+const empresa = {
+ nome: 'Rocketseat',
+ endereco: {
+ cidade: 'Rio do Sul',
+ estado: 'SC',
+ }
+};
+```
+
+Utilize a desestruturação para transformar as propriedades nome, cidade e estado em variáveis, no fim deve ser possível fazer o seguinte:
+
+```
+console.log(nome); // Rocketseat
+console.log(cidade); // Rio do Sul
+console.log(estado); // SC
+```
+
+#### 04.2  Desestruturação em parâmetros
+
+Na seguinte função:
+
+```
+function mostraInfo(usuario) {
+ return `${usuario.nome} tem ${usuario.idade} anos.`;
 }
-var anosEstudo = 7;
-experiencia(anosEstudo);
-// De 0-1 ano: Iniciante
-// De 1-3 anos: Intermediário
-// De 3-6 anos: Avançado
-// De 7 acima: Jedi Master
+mostraInfo({ nome: 'Diego', idade: 23 })
+```
+
+Utilize a desestruturação nos parâmetros da função para buscar o nome e idade do usuário separadamente e a função poder retornar apenas:
+
+```
+return `${nome} tem ${idade} anos.`;
 ```
 
 ### 05 Exercício :pencil:
 
-Dado o seguinte vetor de objetos:
+Utilizando o operador de rest/spread (...) realize as seguintes operações:
+
+#### 05.1  Rest 
+
+A partir do array: ```const arr = [1, 2, 3, 4, 5, 6]```, defina uma variável x que recebe a primeira posição do vetor e outra variável y que recebe todo restante dos dados.
 
 ```
-var usuarios = [
-{
-nome: "Diego",
-habilidades: ["Javascript", "ReactJS", "Redux"]
-},
-{
-nome: "Gabriel",
-habilidades: ["VueJS", "Ruby on Rails", "Elixir"]
-}
-];
+console.log(x); // 1
+console.log(y); // [2, 3, 4, 5, 6]
 ```
 
-Escreva uma função que produza o seguinte resultado:
+Crie uma função que recebe inúmeros parâmetros e retorna a soma de todos eles:
 
-`O Diego possui as habilidades: Javascript, ReactJS, Redux 
- O Gabriel possui as habilidades: VueJS, Ruby on Rails, Elixir`
+```
+// function soma...
+console.log(soma(1, 2, 3, 4, 5, 6)); // 21
+console.log(soma(1, 2)); // 3
+```
 
-_Dica: Para percorrer um vetor você deve utilizar a sintaxe for...of e para unir valores de um array
-com um separador utilize o join._
+#### 05.2  Spread
+
+A partir do objeto e utilizando o operador spread:
+
+```
+const usuario = {
+ nome: 'Diego',
+ idade: 23,
+ endereco: {
+ cidade: 'Rio do Sul',
+ uf: 'SC',
+ pais: 'Brasil',
+ }
+};
+```
+
+Crie uma variável ```usuario2``` que contenha todos os dados do usuário porém com nome ```Gabriel```.
+
+Crie uma variável ```usuario3``` que contenha todos os dados do usuário porém com cidade ```Lontras```.
+
+
+### 06 Exercício :pencil:
+
+Converta o seguinte trecho de código utilizando Template Literals:
+
+```
+const usuario = 'Diego';
+const idade = 23;
+console.log('O usuário ' + usuario + ' possui ' + idade + ' anos');
+```
+
+### 07 Exercício :pencil:
+
+Utilize a sintaxe curta de objetos (Object Short Syntax) no seguinte objeto:
+
+```
+const nome = 'Diego';
+const idade = 23;
+const usuario = {
+ nome: nome,
+ idade: idade,
+ cidade: 'Rio do Sul',
+};
+```
 
 ## :memo: License
 
