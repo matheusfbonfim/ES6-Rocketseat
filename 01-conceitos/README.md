@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" title="Javascript Starter"src="https://github.com/matheusfbonfim/ES6-Rocketseat/blob/master/.github/logo_SVG.svg" width="200px" />
+    <img alt="Starter" title="Javascript Starter"src=".github/logo_SVG.svg" width="200px" />
 </h1>
 
 <h2 align="center">
@@ -10,21 +10,18 @@
 
 ### 01 Exercício :pencil:
 
-Crie uma função que dado o objeto a seguir:
+Para testar seus conhecimentos com classes, crie uma classe com nome "Admin", essa classe deve extender uma segunda classe chamada "Usuario".
+
+A classe usuário deve receber dois parâmetros no método construtor, e-mail e senha, e anotá-los em propriedades da classe. A classe "Admin" por sua vez não recebe parâmetros mas deve repassar os parâmetros de e-mail e senha à classe pai e marcar uma propriedade "admin" como true na classe.
+
+Agora com suas classes formatadas, adicione um método na classe Usuario chamado isAdmin que retorna se o usuário é administrador ou não baseado na propriedade admin ser true ou não.
 
 ```
-var endereco = {
-		rua: "Rua dos pinheiros",
-		numero: 1293,
-		bairro: "Centro",
-		cidade: "São Paulo",
-		uf: "SP"
-};
+const User1 = new Usuario('email@teste.com', 'senha123');
+const Adm1 = new Admin('email@teste.com', 'senha123');
+console.log(User1.isAdmin()) // false
+console.log(Adm1.isAdmin()) // true
 ```
-
-Retorne o seguinte conteúdo:
-
-`O usuário mora em São Paulo / SP, no bairro Centro, na rua "Rua dos Pinheiros" com nº 1293.`
 
 ### 02 Exercício :pencil:
 
