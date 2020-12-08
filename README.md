@@ -34,9 +34,9 @@
 
 ## 📑 Índice dos módulos
 
-- ### [ Módulo 01 - Conceitos](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/01-introducao-java-script) 🚀 Done :heavy_check_mark:
-- ### [ Módulo 02 - Webpack Server](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/02-manipulando-DOM) 🚀 Done :heavy_check_mark: 
-- ###  [ Módulo 03 - Async/await](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/03-app-de-Todos) 🚀 Done :heavy_check_mark:
+- ### [ Módulo 01 - Conceitos](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/01-conceitos) 🚀 Done :heavy_check_mark:
+- ### [ Módulo 02 - Webpack Server]() 🚀 Done :heavy_check_mark: 
+- ###  [ Módulo 03 - Async/await]() 🚀 Done :heavy_check_mark:
 - ### [Módulo 04 - Aplicação com ES6+]() 🚀 Done :heavy_check_mark:
 
 ## :memo: License
