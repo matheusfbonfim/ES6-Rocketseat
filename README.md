@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" title="ES6 Starter"src="https://xesque.rocketseat.dev/platform/1566444881250.png" width="200px" />
+    <img alt="Starter" title="ES6 Starter"src="/.github/logo.png" width="200px" />
 </h1>
 
 <h2 align="center">
