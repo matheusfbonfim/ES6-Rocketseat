@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Starter" title="ES6 Starter"src="/.github/logo.png" width="200px" />
+    <img alt="Starter" title="ES6 Starter"src="/.github/logo.png" width="400px" />
 </h1>
 
 <h2 align="center">
@@ -34,10 +34,10 @@
 
 ## 📑 Índice dos módulos
 
-- ### [ Módulo 01 - Introdução JavaScript](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/01-introducao-java-script) 🚀 Done :heavy_check_mark:
-- ### [ Módulo 02 - Manipulando a DOM](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/02-manipulando-DOM) 🚀 Done :heavy_check_mark: 
-- ###  [ Módulo 03 - App de ToDos](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/03-app-de-Todos) 🚀 Done :heavy_check_mark:
-- ### [Módulo 04 - JS Assíncrono](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/04-JS-assincrono) 🚀 Done
+- ### [ Módulo 01 - Conceitos](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/01-introducao-java-script) 🚀 Done :heavy_check_mark:
+- ### [ Módulo 02 - Webpack Server](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/02-manipulando-DOM) 🚀 Done :heavy_check_mark: 
+- ###  [ Módulo 03 - Async/await](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/03-app-de-Todos) 🚀 Done :heavy_check_mark:
+- ### [Módulo 04 - Aplicação com ES6+](https://github.com/matheusfbonfim/JavaScript-Rocketseat/tree/master/04-JS-assincrono) 🚀 Done :heavy_check_mark:
 
 ## :memo: License
 
