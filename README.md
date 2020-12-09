@@ -21,7 +21,7 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
   
   <a>
-    <img alt="Repository size" src="https://img.shields.io/github/repo-size/matheusfbonfim/JavaScript-Rocketseat.svg">
+    <img alt="Repository size" src="https://img.shields.io/github/repo-size/matheusfbonfim/ES6-Rocketseat.svg">
   </a>
   
   <a href="https://github.com/matheusfbonfim/ES6-Rocketseat/commits/master">
