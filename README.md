@@ -25,7 +25,7 @@
   </a>
   
   <a href="https://github.com/matheusfbonfim/ES6-Rocketseat/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusfbonfim/JavaScript-Rocketseat.svg">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/matheusfbonfim/ES6-Rocketseat.svg">
   </a>
    <a href="https://github.com/matheusfbonfim/ES6-Rocketseat/stargazers">
     <img alt="Stargazers" src="https://img.shields.io/github/stars/matheusfbonfim/ES6-Rocketseat?style=social">
