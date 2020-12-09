@@ -34,7 +34,7 @@
 ## 📑 Índice dos módulos
 
 - ### [ Módulo 01 - Conceitos](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/01-conceitos) 🚀 Done :heavy_check_mark:
-- ### [ Módulo 02 - Webpack Server]() 🚀 Done :heavy_check_mark: 
+- ### [ Módulo 02 - Webpack Server](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/02-webpack-server) 🚀 Done :heavy_check_mark: 
 - ###  [ Módulo 03 - Async/await]() 🚀 Done :heavy_check_mark:
 - ### [Módulo 04 - Aplicação com ES6+]() 🚀 Done :heavy_check_mark:
 
