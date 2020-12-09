@@ -15,25 +15,14 @@ Todos os exercícios abaixo necessitam que você esteja com o Webpack configurad
 Crie um arquivo chamado ```functions.js``` com o seguinte conteúdo:
 
 ```
-const User1 = new Usuario('email@teste.com', 'senha123');
-const Adm1 = new Admin('email@teste.com', 'senha123');
-console.log(User1.isAdmin()) // false
-console.log(Adm1.isAdmin()) // true
-```
-
-### 02 Exercício :pencil:
-
-A partir do seguinte vetor e utilizando os métodos de array (map, reduce, filter e find):
-
-```
 export const idade = 23;
-
 export default class Usuario {
  static info() {
  console.log('Apenas teste');
  }
 }
 ```
+
 #### 1.1 
 Agora em seu arquivo principal import apenas a classe Usuario renomeando-a para ```ClasseUsuario``` e chame a funão ```info()```;
 
