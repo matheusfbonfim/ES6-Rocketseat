@@ -1,0 +1,5 @@
+{ 
+  // Entende qual ambiente (web,mobile..) e converte os arquivos para 
+  // o ambiente entender
+  "presets" : ["@babel/preset-env"]
+}
