@@ -9,7 +9,6 @@
 <p align="center">Este projeto armazena os exercícios finais/desafios de cada módulo do curso de ES6 da Rocketseat <a href="https://app.rocketseat.com.br/starter/courses"> (ES6 Starter)</a> 🎓
 </p>
 
-
 <p align="center">
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/matheusfbonfim/ES6-Rocketseat?color=%2304D361">
