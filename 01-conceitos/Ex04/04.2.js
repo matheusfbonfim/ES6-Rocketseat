@@ -1,4 +1,5 @@
-function mostraInfo(usuario) {
-  return `${usuario.nome} tem ${usuario.idade} anos.`;
+function mostraInfo({nome, idade}) {
+  return `${nome} tem ${idade} anos.`;
  }
- mostraInfo({ nome: 'Diego', idade: 23 })
+ 
+ console.log(mostraInfo({ nome: 'Diego', idade: 23 }));
