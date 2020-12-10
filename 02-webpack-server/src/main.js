@@ -1,4 +1,15 @@
-// 1.1
-import ClasseUsuario from './functions'
+// // 1.1
+// import ClasseUsuario from './functions'
 
-CLasseUsuario.info();
+// ClasseUsuario.info();
+
+// // 1.2
+// import {idade} from './functions'
+
+// console.log(idade);
+
+//1.3
+import ClasseUsuario, {idade as IdadeUsuario} from './functions.js'
+
+console.log(IdadeUsuario);
+ClasseUsuario.info();
