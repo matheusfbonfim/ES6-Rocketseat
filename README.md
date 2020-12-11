@@ -36,7 +36,7 @@
 - ### [ Módulo 01 - Conceitos](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/01-conceitos) 🚀 Done :heavy_check_mark:
 - ### [ Módulo 02 - Webpack Server](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/02-webpack-server) 🚀 Done :heavy_check_mark: 
 - ###  [ Módulo 03 - Async/await](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/03-async-await) 🚀 Done :heavy_check_mark:
-- ### [Módulo 04 - Aplicação com ES6+]() 🚀 Done :heavy_check_mark:
+- ### [Módulo 04 - Aplicação com ES6+](https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/04-aplica%C3%A7%C3%A3o-com-ES6%2B) 🚀 Done :heavy_check_mark:
 
 ## :memo: License
 
