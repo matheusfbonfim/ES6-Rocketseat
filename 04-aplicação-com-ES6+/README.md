@@ -10,6 +10,26 @@
 
 Aplicação com ES6+ consumindo a API do GitHub.
 
+## 🚀 Como executar a aplicação
+
+   ```
+   - Clone this repository:
+   $ git clone https://github.com/matheusfbonfim/ES6-Rocketseat/tree/master/04-aplica%C3%A7%C3%A3o-com-ES6%2B
+
+   - Enter in directory:
+   $ cd 04-aplicação-com-ES6+
+
+   - For install dependencies:
+   $ yarn install
+
+   - Execute application:
+   $ yarn dev
+
+   - Open your browser in:
+   http://localhost:8080/
+
+   ```
+   
 ## :memo: License
 
 O projeto está sobre a licença [MIT](./LICENSE) ❤️
